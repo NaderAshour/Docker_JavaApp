@@ -14,7 +14,7 @@ This project focuses on **containerizing** a multi-tier Java web application usi
 
 ## 📂 Project Structure
 ```
-📂 multi-tier-app-dockerized/
+📂 Docker_JavaApp/
  ├── docker-compose.yml
  ├── .env
  ├── tomcat/
